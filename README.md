@@ -30,3 +30,9 @@
 - Takes a float value with a current type and what it should be converted to
 
 [<img width="190" alt="image" src="https://github.com/user-attachments/assets/c16e6497-e20a-4a76-b172-e870afb9aabf" />](https://github.com/maxwelllokshin1/30-Easy-Projects/blob/main/UnitConverter.py)
+
+## Project 6 - Mad Lib Generator
+- Uses inputs for person, place, and object to create a story
+- Randomly selects a story out of 3
+
+[<img width="511" alt="image" src="https://github.com/user-attachments/assets/26df13c2-02fd-405e-9aa2-d88f7e70e149" />](https://github.com/maxwelllokshin1/30-Easy-Projects/blob/main/MadLibGen.py)
