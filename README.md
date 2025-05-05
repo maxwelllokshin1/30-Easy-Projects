@@ -16,3 +16,10 @@
 - Rolls dice to give value between 1 - 6
   
 [<img width="132" alt="image" src="https://github.com/user-attachments/assets/31c8a2da-41dc-4141-8cdd-3e55c6ec8e3e" />](https://github.com/maxwelllokshin1/30-Easy-Projects/blob/main/DiceRollerSim.py)
+
+## Project 4 - Simple Calculator
+- Simple calculator that takes 2 integers with 1 operation
+- Outputs a value based on the 2 integer value
+
+[<img width="106" alt="image" src="https://github.com/user-attachments/assets/d10bafd2-5753-457f-b24b-3852037807f5" />
+](https://github.com/maxwelllokshin1/30-Easy-Projects/blob/main/SimpleCalculator.py)
