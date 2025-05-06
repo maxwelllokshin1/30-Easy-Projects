@@ -4,6 +4,8 @@
 
 ## Project 1 - Hello World GUI
 - Learned how to present hello world using tkinter library in python
+- Prints hello world on a python window
+
 [<img width="373" alt="image" src="https://github.com/user-attachments/assets/646febcf-4fd3-42a6-b389-fb446f207d89" />](https://github.com/maxwelllokshin1/30-Easy-Projects/blob/main/HelloWorldApp.py)
 
 ## Project 2 - Number Guessing Game
