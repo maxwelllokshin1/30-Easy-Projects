@@ -36,3 +36,10 @@
 - Randomly selects a story out of 3
 
 [<img width="511" alt="image" src="https://github.com/user-attachments/assets/26df13c2-02fd-405e-9aa2-d88f7e70e149" />](https://github.com/maxwelllokshin1/30-Easy-Projects/blob/main/MadLibGen.py)
+
+## Project 7 - Count Down Timer
+- Counts down from 10 -> 1
+- Uses time library built into python
+
+[<img width="82" alt="image" src="https://github.com/user-attachments/assets/65a66ac7-3716-461c-906c-fa2b51b17150" />](https://github.com/maxwelllokshin1/30-Easy-Projects/blob/main/CountDownTimer.py)
+
