@@ -50,3 +50,8 @@
 - Creates a password 16 characters long
 
 [<img width="164" alt="image" src="https://github.com/user-attachments/assets/81757bb8-e5b9-4d23-8e3a-804764001d72" />](https://github.com/maxwelllokshin1/30-Easy-Projects/blob/main/RandPasswordGen.py)
+
+## Project 9 - Tip Calculator
+- Claculates the tip for a bill using 18% -> 22%
+
+[<img width="205" alt="image" src="https://github.com/user-attachments/assets/00d950ed-f138-4718-a6da-1525aca9e90d" />](https://github.com/maxwelllokshin1/30-Easy-Projects/blob/main/TipCalculator.py)
