@@ -55,3 +55,9 @@
 - Claculates the tip for a bill using 18% -> 22%
 
 [<img width="205" alt="image" src="https://github.com/user-attachments/assets/00d950ed-f138-4718-a6da-1525aca9e90d" />](https://github.com/maxwelllokshin1/30-Easy-Projects/blob/main/TipCalculator.py)
+
+## Project 10 - BMI Calculator
+- Calculates BMI based on Height(in) and Weight(lbs)
+- FORMULA: (Weight * 703) / (Height ^2)
+
+[<img width="182" alt="image" src="https://github.com/user-attachments/assets/5b8a4d2c-3b95-467d-826a-fd8de6a4cd5d" />](https://github.com/maxwelllokshin1/30-Easy-Projects/blob/main/BMICalc.py)
