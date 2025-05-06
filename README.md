@@ -61,3 +61,11 @@
 - FORMULA: (Weight * 703) / (Height ^2)
 
 [<img width="182" alt="image" src="https://github.com/user-attachments/assets/5b8a4d2c-3b95-467d-826a-fd8de6a4cd5d" />](https://github.com/maxwelllokshin1/30-Easy-Projects/blob/main/BMICalc.py)
+
+## Project 11 - Rock Paper Scissors
+- Rock beats Scissors
+- Paper beats Rock
+- Scissors beats Paper
+- You against a computer to see who wins
+
+[<img width="174" alt="image" src="https://github.com/user-attachments/assets/88ed10e0-dc41-41a3-860b-d8b08b460c03" />](https://github.com/maxwelllokshin1/30-Easy-Projects/blob/main/RockPaperScissors.py)
