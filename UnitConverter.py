@@ -24,11 +24,11 @@ def lengthCon(number, from_, to):
 
 def massCon(number, from_, to):
     to_kg = {
-        "oz": 35.274,
-        "lbs": 2.205,
-        "g": 1000,
+        "oz": 0.0283495,
+        "lbs": 0.453592,
+        "g": 0.001,
         "kg": 1.0,
-        "ton": 1/1000,
+        "ton": 1000.0,
     }
 
     from_kg = {unit: 1 / factor for unit, factor in to_kg.items()}
