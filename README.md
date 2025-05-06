@@ -45,3 +45,8 @@
 
 [<img width="82" alt="image" src="https://github.com/user-attachments/assets/65a66ac7-3716-461c-906c-fa2b51b17150" />](https://github.com/maxwelllokshin1/30-Easy-Projects/blob/main/CountDownTimer.py)
 
+## Project 8 - Random Password Generator
+- Chooses a random character from ascii value 33 all the way to ascii value 126
+- Creates a password 16 characters long
+
+[<img width="164" alt="image" src="https://github.com/user-attachments/assets/81757bb8-e5b9-4d23-8e3a-804764001d72" />](https://github.com/maxwelllokshin1/30-Easy-Projects/blob/main/RandPasswordGen.py)
