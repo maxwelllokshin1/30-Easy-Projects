@@ -69,3 +69,8 @@
 - You against a computer to see who wins
 
 [<img width="174" alt="image" src="https://github.com/user-attachments/assets/88ed10e0-dc41-41a3-860b-d8b08b460c03" />](https://github.com/maxwelllokshin1/30-Easy-Projects/blob/main/RockPaperScissors.py)
+
+## Project 12 - [To-Do List](https://github.com/maxwelllokshin1/30-Easy-Projects/blob/main/todolist.py)
+- Created a todo list
+- Actions such as adding, removing, completing and viewing tasks
+- Gives updates based on which tasks completed and which ones not
